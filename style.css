@@ -54,8 +54,16 @@ h1{
     border:2px solid grey;
     border-radius: 5px;
     padding: 3px 7px;
-    
 }
+.check{
+    width:20px;
+}
+.nocheck{
+    width: 14px;
+    margin-right: 11px;
+    padding-left: 1px;
+}
+
 .Bottom_div{
     margin-bottom: 40px;
 }
@@ -92,10 +100,12 @@ h1{
 /*liste*/
 
 li{
-    padding: 7px;
+    padding: 7px 0px;
 }
 
-ul{
-    padding-left: 20px ;
+ul
+{
+    list-style-type:none;
+    padding-left: 0px ;
 }
 
