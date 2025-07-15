@@ -32,13 +32,21 @@ h1{
 
 /*Main*/
 
-#contenitore{
+#contenitoreHeader{
     width: 50%;
     margin: 0 auto;
     background-color: rgb(255, 255, 255);
     margin-top: 50px;
     padding: 15px;
-    border-radius: 10px;
+    border-radius: 5px;
+}
+#contenitoreMain{
+    width: 50%;
+    margin: 0 auto;
+    background-color: rgb(255, 255, 255);
+    margin-top: 5px;
+    padding: 15px;
+    border-radius: 5px;
 }
 
 /*bottom*/
@@ -67,7 +75,7 @@ h1{
     width: 14px;
     margin-right: 11px;
     padding-left: 1px;
-    vertical-align: text-bottom;
+    vertical-align: middle;
 }
 
 .Bottom_div{
