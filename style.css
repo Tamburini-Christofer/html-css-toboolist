@@ -38,3 +38,26 @@ body{
     border-radius: 10px;
 }
 
+.bottom1{
+    color: white;
+    border: 2px solid white;
+    background-color:#45ACF2;
+    border-radius: 5px;
+    padding: 3px 7px;
+}
+.bottom2{
+    color:grey;
+    border:2px solid grey;
+    border-radius: 5px;
+    padding: 3px 7px;
+    
+}
+.Bottom_div{
+    margin-bottom: 40px;
+}
+
+.Triangolo{
+    
+}
+
+
