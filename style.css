@@ -29,7 +29,6 @@ h1{
 
 #Header{
     background-color: rgb(255, 255, 255);
-    
 }
 
 /*Main*/
@@ -96,4 +95,15 @@ h1{
     background-color: #B0CA27;
 }
 
+/*liste*/
 
+li{
+    padding: 7px;
+}
+
+ul{
+    padding-left: 2px ;
+}
+span{
+    padding: 10px;
+}
