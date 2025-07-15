@@ -61,11 +61,13 @@ h1{
 
 .check{
     width:20px;
+    vertical-align: text-bottom;
 }
 .nocheck{
     width: 14px;
     margin-right: 11px;
     padding-left: 1px;
+    vertical-align: text-bottom;
 }
 
 .Bottom_div{
@@ -73,7 +75,7 @@ h1{
 }
 
 .Sezione{
-    padding: 20px 0px 20px 0px;;
+    padding: 25px 0px;
 }
 
 /*Commenti laterali*/
@@ -106,7 +108,7 @@ h1{
 /*liste*/
 
 li{
-    padding: 7px 0px;
+    padding: 9px 0px;
 }
 
 ul
