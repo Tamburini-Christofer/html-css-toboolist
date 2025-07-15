@@ -57,7 +57,38 @@ body{
 }
 
 .Triangolo{
-    
+    display: inline;
+    background-image: url(img/Triangolino.png);
+    width: 10x;
+    background-repeat: no-repeat;
+}
+
+.Sezione{
+    padding: 20px 0px 20px 0px;;
+}
+
+.base_comment{
+    font-size: 14px;
+    background-color:#45ACF2;
+    border: 1px solid white;
+    border-radius: 15px;
+    color: white;
+    padding: 5px 10px;
+}
+.q1{
+    background-color:#9974DA;
+}
+.recut{
+    background-color: #67C0A7;
+}
+.mobile{   
+    background-color: #ECA42E;
+}
+.Website{
+    background-color: #D763A0;
+}
+.Sales{
+    background-color: #B0CA27;
 }
 
 
