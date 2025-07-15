@@ -60,13 +60,6 @@ h1{
     margin-bottom: 40px;
 }
 
-.Triangolo{
-    display: inline;
-    background-image: url(img/Triangolino.png);
-    width: 10x;
-    background-repeat: no-repeat;
-}
-
 .Sezione{
     padding: 20px 0px 20px 0px;;
 }
@@ -77,7 +70,8 @@ h1{
     border: 1px solid white;
     border-radius: 15px;
     color: white;
-    padding: 5px 10px;
+    padding: 3px 10px;
+    margin-left: 5px;
 }
 .q1{
     background-color:#9974DA;
@@ -102,8 +96,6 @@ li{
 }
 
 ul{
-    padding-left: 2px ;
+    padding-left: 20px ;
 }
-span{
-    padding: 10px;
-}
+
