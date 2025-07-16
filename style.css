@@ -14,16 +14,18 @@ body{
 
 /*Header*/
 
+
+
 #logo{
     padding:10px;
     margin-left:10px;
 }
 
-h1{
-    display: inline;
+#logo_title{
     font-size: 34px;
     font-family: Verdana, Tahoma, sans-serif;
-    vertical-align: 50%;    
+    vertical-align: 50%;  
+    font-weight: 700;  
 }
 
 #Header{
@@ -32,7 +34,7 @@ h1{
 
 /*Main*/
 
-#contenitoreHeader{
+#contenitore{
     width: 50%;
     margin: 0 auto;
     background-color: rgb(255, 255, 255);
@@ -40,25 +42,18 @@ h1{
     padding: 15px;
     border-radius: 5px;
 }
-#contenitoreMain{
-    width: 50%;
-    margin: 0 auto;
-    background-color: rgb(255, 255, 255);
-    margin-top: 5px;
-    padding: 15px;
-    border-radius: 5px;
-}
 
-/*bottom*/
 
-.bottom1{
+/*button*/
+
+.button1{
     color: white;
     border: 2px solid white;
     background-color:#45ACF2;
     border-radius: 5px;
     padding: 3px 7px;
 }
-.bottom2{
+.button2{
     color:grey;
     border:2px solid grey;
     border-radius: 5px;
@@ -78,8 +73,9 @@ h1{
     vertical-align: middle;
 }
 
-.Bottom_div{
-    margin-bottom: 40px;
+.Button_div{
+    margin-bottom: 30px;
+    padding: 0px;
 }
 
 .Sezione{
@@ -88,7 +84,7 @@ h1{
 
 /*Commenti laterali*/
 
-.base_comment{
+.base_label{
     font-size: 14px;
     background-color:#45ACF2;
     border: 1px solid white;
@@ -97,26 +93,26 @@ h1{
     padding: 3px 10px;
     margin-left: 5px;
 }
-.q1{
+.viola{
     background-color:#9974DA;
 }
-.recut{
+.azzurrino{
     background-color: #67C0A7;
 }
-.mobile{   
+.arancione{   
     background-color: #ECA42E;
 }
-.Website{   
+.violetto{   
     background-color: #D763A0;
 }
-.Sales{
+.verde{
     background-color: #B0CA27;
 }
 
 /*liste*/
 
 li{
-    padding: 9px 0px;
+    margin: 15px 0px;
 }
 
 ul
